@@ -40,7 +40,7 @@ module.exports = {
           .setDescription(
             "الشخص غير موجود بقائمة النصابين ، \n `هذا لا يعني أنه مظمون ,`"
           );
-        message.channel.send(embed);
+        message.channel.send(embed2);
       }
     } catch {
       /**/
