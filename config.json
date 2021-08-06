@@ -1,7 +1,7 @@
 {
     "discordbotsettings":{
-        "prefix":"!",
-        "token":"ODcyODY1NDI3NzA4MDUxNDk2.YQwFRw.gqAgqhxuCjlv3b0qk8gGzlV8MMA"
+        "prefix":"",
+        "token":""
     },
     "dbSettings":{
         "mongoURI":"",
